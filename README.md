@@ -1,1 +1,3 @@
 # AplikacjaMobilna
+
+Aplikacja z przepisami
